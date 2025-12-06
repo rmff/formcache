@@ -38,6 +38,7 @@ FormCacheOptions = {
   ],
   noCache: [
     // Do not cache those fields
+    'input[type="hidden"]',
     'input[name="abc"]',
     'input[id="xyz"]'
   ]
