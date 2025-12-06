@@ -1,9 +1,9 @@
 # jQuery Form Cache
 
-Fork of Form Cache v0.0.3 by Fengyuan Chen
+Forked from Form Cache v0.0.3 by Fengyuan Chen
 https://github.com/fengyuanchen/formcache
 
-Demo by Fengyuan Chen
+Demo by Fengyuan Chen (v0.0.3) 
 https://fengyuanchen.github.io/formcache/
 
 Added option to do not cache to some fields
