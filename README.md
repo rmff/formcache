@@ -6,7 +6,7 @@ https://github.com/fengyuanchen/formcache
 Demo by Fengyuan Chen (v0.0.3) 
 https://fengyuanchen.github.io/formcache/
 
-Added option to do not cache to some fields
+Added option to do not cache some fields
 ```js
 FormCacheOptions = {
   key: 'formcache',
