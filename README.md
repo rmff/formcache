@@ -42,4 +42,7 @@ FormCacheOptions = {
     'input[id="xyz"]'
   ]
 }
+
+//Start/Load form cache
+$("#FORM").formcache(FormCacheOptions);
 ```
