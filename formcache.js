@@ -77,7 +77,6 @@
       }
       defaults.noCache.push(':file'); // Ignores file inputs
       
-      console.log({"join":defaults.controls.join()});
       this.$controls = this.$form
         .find(defaults.controls.join())
         .not(defaults.noCache.join());
